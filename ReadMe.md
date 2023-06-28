@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priya-jan&label=Profile%20views&color=0e75b6&style=flat" alt="priya-jan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priya-jan" alt="priya-jan" /></a> </p>
 
 # 💫 About Me:
 🔭 I’m currently working on JARVIS VOICE ASSISTANT<br>👯 I’m looking to collaborate on DATA SCIENCE PROJECTS<br>🌱 I’m currently learning DATA SCIENCE,MACHINE LEARNING<br>💬 Ask me about C++,JAVA,PYTHON,DATA STRUCTURE,MS EXCEL,SQL,FLASK<br> 📫 How to reach me **jnpriyanshipragya@gmail.com**<br>⚡ Fun fact **AI algorithms can create art, turning computers into artistically inclined Picassos, blending human and machine creativity into captivating masterpieces!**
@@ -26,12 +25,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=priya-jan&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priya-jan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+s
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priya-jan&show_icons=true&locale=en&layout=compact" alt="priya-jan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priya-jan&show_icons=true&locale=en" alt="priya-jan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priya-jan&" alt="priya-jan" /></p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priya-jan" alt="priya-jan" /></a> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
