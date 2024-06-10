@@ -8,8 +8,8 @@
 🔭 I’m currently working on IMAGE CLASSIFICATION PROJECT<br>👯 I’m looking to collaborate on DATA SCIENCE PROJECTS<br>🌱 I’m currently learning DATA SCIENCE, MACHINE LEARNING<br>💬 Ask me about C++, JAVA, PYTHON, DATA STRUCTURE, MS EXCEL, SQL, FLASK<br> 📫 How to reach me **jnpriyanshipragya@gmail.com**<br>⚡ Fun fact **AI algorithms can create art, turning computers into artistically inclined Picassos, blending human and machine creativity into captivating masterpieces!**
 <br>
 
-<img src="pho.jpg" alt="Girl in a jacket"  width="400" 
-     height="500">
+<img src="pho.jpg" alt="Girl in a jacket"  width="300" 
+     height="300">
 ## 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
