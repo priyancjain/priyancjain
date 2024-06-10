@@ -5,8 +5,8 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on IMAGE CLASSIFICATION PROJECT<br>👯 I’m looking to collaborate on DATA SCIENCE PROJECTS<br>🌱 I’m currently learning DATA SCIENCE, MACHINE LEARNING<br>💬 <img src="pho.jpg" alt="Girl in a jacket"  width="300" 
-     height="300" align="right">  Ask me about C++, JAVA, PYTHON, DATA STRUCTURE, MS EXCEL, SQL, FLASK<br>                                        📫 How to reach me **jnpriyanshipragya@gmail.com**<br>⚡ Fun fact **AI algorithms can create art, turning computers into artistically inclined Picassos, blending human and machine creativity into captivating masterpieces!**
+🔭 I’m currently working on IMAGE CLASSIFICATION PROJECT<br>👯 I’m looking to collaborate on DATA SCIENCE PROJECTS<br><img src="pho.jpg" alt="Girl in a jacket"  width="300" 
+     height="300" align="right">🌱 I’m currently learning DATA SCIENCE, MACHINE LEARNING<br>💬   Ask me about C++, JAVA, PYTHON, DATA STRUCTURE, MS EXCEL, SQL, FLASK<br>                                        📫 How to reach me **jnpriyanshipragya@gmail.com**<br>⚡ Fun fact **AI algorithms can create art, turning computers into artistically inclined Picassos, blending human and machine creativity into captivating masterpieces!**
 <br>
 
 ## 🌐 Socials:
