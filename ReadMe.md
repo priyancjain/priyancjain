@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently learning the depth of Agentic AI<br>👯 I’m looking to collaborate on DATA SCIENCE PROJECTS<br>🌱 I’m currently learning DATA SCIENCE, MACHINE LEARNING<br>💬   Ask me about C++, JAVA, PYTHON, DATA STRUCTURE, MS EXCEL, SQL, FLASK<br> 📫 How to reach me **jnpriyanshipragya@gmail.com**<br>⚡ Fun fact **AI algorithms can create art, turning computers into artistically inclined Picassos, blending human and machine creativity into captivating masterpieces!**
+🔭 I’m currently learning the depth of Agentic AI<br>👯 I’m looking to collaborate on DATA SCIENCE PROJECTS<br>🌱 I’m currently learning DATA SCIENCE, MACHINE LEARNING<br>💬   Ask me about C++, JAVA, PYTHON, DATA STRUCTURE, MS EXCEL, SQL, FLASK<br> 📫 How to reach me **priyanshijain1628@gmail.com**<br>⚡ Fun fact **AI algorithms can create art, turning computers into artistically inclined Picassos, blending human and machine creativity into captivating masterpieces!**
 <br>
 
 ## 🌐 Socials:
