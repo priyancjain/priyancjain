@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshi Jain</h1>
-<h3 align="center">"AI Engineer intern at @TariniConsulting(authorized zoho partner) | Passionate student aspiring to become a Data Scientist | Exploring the world of data one line of code at a time"</h3>
+<h3 align="center">" Gen AI Apprentice at Synaptyx AI, ex-AI Engineer intern at @TariniConsulting(authorized zoho partner) | Passionate student aspiring to become a Data Scientist | Exploring the world of data one line of code at a time"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyancjain&label=Profile%20views&color=0e75b6&style=flat" alt="priyancjain" /> </p>
 
